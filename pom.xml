@@ -10,5 +10,7 @@
     <module>agent-demo</module>
     <module>class-loader</module>
     <module>threadlocal-demo</module>
+    <module>rpc-demo</module>
+    <module>springMvc-demo</module>
   </modules>
 </project>
