@@ -1,0 +1,2 @@
+org.spi.demo.service.impl.BlackDogServiceImpl
+org.spi.demo.service.impl.WhilteDogServiceImpl
