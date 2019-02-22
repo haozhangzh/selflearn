@@ -20,5 +20,8 @@
     <module>java-language-specification-demo</module>
     <module>spi-demo</module>
     <module>xstream-demo</module>
+    <module>spring-demo</module>
+    <module>spring-boot-demo</module>
+    <module>netty-demo</module>
   </modules>
 </project>
